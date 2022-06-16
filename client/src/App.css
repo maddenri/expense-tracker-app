@@ -1,0 +1,46 @@
+.mt-10 {
+    margin-top: 10rem !important;
+}
+.my-badge {
+    padding: 0.35em 0.65em;
+    font-size: 1.5em;
+    font-weight: 700;
+    line-height: 1;
+    letter-spacing: 2px;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 0.25rem;
+    margin-bottom: 1.5em;
+}
+
+.my-para {
+    padding: 0.35em 0.65em;
+    font-size: 0.7em;
+    font-weight: 700;
+    line-height: 1;
+    letter-spacing: 2px;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 0.25rem;
+    margin-bottom: 1.5em;
+}
+
+#__react-alert__ div div div {
+    -webkit-box-flex: 3;
+    -webkit-flex: 3;
+    -ms-flex: 3;
+    flex: 3;
+    width: auto !important;
+    text-transform: initial !important;
+    font:inherit !important;
+    padding: 8px 10px;
+}
+
+.my_img {
+    width: auto;
+    max-height: 196px;
+}
