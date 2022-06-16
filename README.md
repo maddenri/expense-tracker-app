@@ -35,8 +35,3 @@ This project separates out front and back end code into client/server folders.
    username: murphym    password: Smurf45$
    </pre>
 7. Have fun exploring the expense tracker application :)
-<<<<<<< HEAD
-
-
-=======
->>>>>>> origin/master
